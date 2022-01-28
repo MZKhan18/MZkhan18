@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Desktop Applications and DSA**
 
-- 🌱 I’m currently learning **everything 😅**
+- 🌱 I’m currently learning **everything**
 
 - 👯 I’m looking to collaborate with **many other developers and make contributions in open source projects**
 
