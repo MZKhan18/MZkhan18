@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MZ aka Mohammad Zama 😎</h1>
-<h3 align="center">I'm a student who is very passionate of coding. My journey as a developer has just started and I'm very excited to make amazing projects 🤞🤞</h3>
+<h3 align="center">Aspiring data scientist and passionate coder.</h3>
 
-- 🔭 I’m currently working on **Desktop Applications and DSA**
+- 🔭 I’m currently working on **Data Science and DSA**
 
 - 🌱 I’m currently learning **everything**
 
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MZKhan18](https://github.com/MZKhan18)
 
-- 💬 Ask me about **Java, DSA, MySQL, C, Python**
+- 💬 Ask me about **Java, DSA, MySQL, C, Python, Data Analytics and ML**
 
 - 📫 How to reach me **mdzamakhan18@gmail.com**
 
