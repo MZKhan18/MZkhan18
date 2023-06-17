@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MZ aka Mohammad Zama 😎</h1>
+<h1 align="center">Hi 👋, I'm Mohammad Zama 😎</h1>
 <h3 align="center">Aspiring data scientist and passionate coder.</h3>
 
 - 🔭 I’m currently working on **Data Science and DSA**
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mdzamakhan18@gmail.com**
 
-- ⚡ Fun fact **My poetries are as good as my codes 😉**
+- ⚡ Fun fact **Can't skip Maths 😉**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
